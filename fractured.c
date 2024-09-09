@@ -8,8 +8,8 @@
 void calculateDistance(void);
 void calculatePerimeter(void);
 void calculateArea(void);
-void calculateWidth(void);   // For circle, this might represent diameter
-void calculateHeight(void);  // For circle, this might also represent diameter
+void calculateWidth(void);   // For a circle, this might represent diameter
+void calculateHeight(void);  // For a circle, this might also represent diameter
 
 int main(void) {
     calculateDistance();
